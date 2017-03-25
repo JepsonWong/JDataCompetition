@@ -1,2 +1,4 @@
 # JetBrains
-.idea/*
+/.idea/
+/Data/
+/config.ini
